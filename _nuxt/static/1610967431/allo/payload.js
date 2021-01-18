@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/allo", {data:[{}],fetch:[],mutations:[["setLoading",true]]});

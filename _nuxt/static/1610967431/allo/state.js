@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b,c){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1610967431",layout:"default",error:a,state:{isLoading:b,allo:{allos:a,adminAllos:a,commandes:a},event:{eventsIdea:a,eventsEnd:a,eventsIncoming:a,isLoading:c,selectEvent:a},user:{loged:c,loginError:a}},serverRendered:b,routePath:"\u002Fallo",config:{}}}(null,true,false));
